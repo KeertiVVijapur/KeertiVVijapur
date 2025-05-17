@@ -10,9 +10,15 @@
 </p>
 
 ### 🌐 Connect with me:
-  <p align="left">
-  <a href="https://www.linkedin.com/in/keerti-vijapur-0170b1279" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" style="margin-right: 10px;" /></a><a href="mailto:keertivijapur.13@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/keerti-vijapur-0170b1279" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" style="margin-right: 15px;" />
+  </a>
+  <a href="mailto:keertivijapur.13@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" />
+  </a>
 </p>
+
 
 
 
