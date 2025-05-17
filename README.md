@@ -1,12 +1,8 @@
-# Hi there, I'm Keerti Vijapur! 👋
-
-🎓 **Aspiring Full-Stack Web Developer** | 💡 Passionate about Innovation | 💻 Tech Enthusiast from Vijayapura, Karnataka, India
-
----
+# Hi, I'm Keerti Vijapur
 
 ### 🚀 About Me
 
-I'm currently pursuing a **Bachelor of Engineering in Information Science** at BLDEA’s VP Dr. PG Halakatti College of Engineering & Technology (VTU). I’m a curious developer who enjoys building impactful web applications, automating processes, and exploring the crossroads of **Web Development**, **AI/ML**, and **Cybersecurity**.
+I love solving real-world problems using tech, and I firmly believe in **learning by building**. I’m a curious developer who enjoys building impactful web applications, automating processes, and exploring the crossroads of **Web Development**, **ML**, **AI** and **Cybersecurity**.
 
 ---
 
@@ -27,56 +23,7 @@ I'm currently pursuing a **Bachelor of Engineering in Information Science** at B
 
 ---
 
-### 🧠 Key Projects
-
-- 🟢 **[Eco-Kannect](https://github.com/KeertiVVijapur)**  
-  A social platform dedicated to environmental awareness & activism.  
-  _PHP | JavaScript | Node.js | Bootstrap | MySQL_
-
-- 🧠 **AI-Powered Resume Screening System**  
-  Automates candidate screening using NLP and machine learning.  
-  _Python | TensorFlow | NLTK_
-
-- 🧳 **Travel & Tourism Management System**  
-  Streamlines hotel booking and customer management processes.  
-  _Java | MySQL | HTML5_
-
----
-
-### 🌱 Currently Learning
-
-- Spring Boot Microservices
-- Advanced Cybersecurity Practices
-- Cloud Deployment with AWS & Docker
-
----
-
-### 🏆 Experience
-
-- 👩‍💻 Full-Stack Developer Intern at **Cognifyz Technologies**
-- 🎯 IEEE Secretary, BLDEACET — Organized 30+ events
-- 🌐 Campus Ambassador @ **Techfest, IIT Bombay**
-- 📝 Co-author of IEEE research paper on IoT-ML in agriculture
-
----
-
-### 📜 Certifications
-
-- Geodata Processing using Python - **ISRO**
-- Foundations of Cybersecurity - **Google/Coursera**
-- Python for Data Science - **NPTEL**
-- Python Programming - **Udemy**
-
----
-
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerti-vijapur-0170b1279/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:keertivijapur.13@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/KeertiVVijapur)
-
----
-
-### 🧭 Fun Fact
-
-I love solving real-world problems using tech, and I'm a firm believer in **learning by building**. Let's build the future together! 🚀
