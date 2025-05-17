@@ -11,13 +11,22 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/keerti-vijapur-0170b1279" target="_blank" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" style="margin-right: 15px;" />
+  <a href="https://www.linkedin.com/in/keerti-vijapur-0170b1279" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+         alt="LinkedIn"
+         height="40"
+         width="40"
+         style="margin-right: 15px; display: inline-block; vertical-align: middle;" />
   </a>
-  <a href="mailto:keertivijapur.13@gmail.com" target="_blank" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" />
+  <a href="mailto:keertivijapur.13@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+         alt="Gmail"
+         height="40"
+         width="40"
+         style="display: inline-block; vertical-align: middle;" />
   </a>
 </p>
+
 
 
 
